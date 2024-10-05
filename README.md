@@ -24,14 +24,10 @@ Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiề
 * [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World_Nether/23_08_2024)
 * [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World_Nether/04_10_2024)
 
-[Thế giới - The End](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Word_The_End)
-
-* [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Word_The_End/23_08_2024)
-* [Backup 04/10/2024 (Đợt này chưa có end!)](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Word_The_End/04_10_2024)
 
 **Lưu ý nhỏ**: Cái này sẽ có thể không có đồ, bạn có thể **tải bản dự phòng có file server đi kèm** (trừ khi bạn biết chỉnh file **playerdata**).
 
-> **Có file server đi kèm** (**bao gồm 3 thế giới gộp chung**):
+> **Có file server đi kèm** (**bao gồm 2 thế giới gộp chung**):
 
 * [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Word_The_End/23_08_2024)
 * [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Server_File_Built_In/04_10_2024)
