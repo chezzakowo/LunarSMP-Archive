@@ -6,9 +6,6 @@
 ## Giới thiệu về server
 **LunarSMP** đã từng là một server F2P với 5 mùa (**đáng lẽ có thêm nhưng server dead rồi**) với song song giữa 3 chế độ mỗi mùa là **SMP, RPG và PVP**
 
-
-
-
 ## Mục đích của file này là gì?
 Như  mình đã nói ở trên, vì server hiện tại **đã dead** và nhiều người **muốn lấy file world của server về để chơi tiếp** thế nên bọn tôi mới làm ra cái này để **mọi người của thể tải về chơi**!
 ## Danh mục
