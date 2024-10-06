@@ -13,6 +13,7 @@ Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiề
 
 Để các bạn dễ **dàng tìm và tải**, mình sẽ chia cái này thành các danh mục:
 
+Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 > **Các thế giới:**
 [Thế giới - World](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World/)
 
