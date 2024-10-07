@@ -31,9 +31,7 @@ Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 
 > **Có file server đi kèm** (**bao gồm 2 thế giới gộp chung**):
 
-[File World và Server](https://drive.google.com/drive/folders/1U8Yl2-n7FDezdiYuuW3Ao_92VZCW5tW6?usp=sharing)
-
-* [Backup 23/08/2024](Chưa có)
+* [Backup 23/08/2024](https://drive.usercontent.google.com/download?id=1ipJgoQ6XWpWc9XZzTI1THHIi2lPKx1WJ&export=download&authuser=2&confirm=t&uuid=39ad1e43-b096-4ba2-9035-7ec1bb4c54dc&at=AN_67v2aWcXy-p6Ih_KG1MCOrW_9:1728309755467)
 * [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1o2Gq-wfwefSVhIgH0eNl5S-CzqGMnNG4&export=download&authuser=4&confirm=t&uuid=ed4b8c87-c361-4f54-b85a-6e90a2b8d0fc&at=AN_67v28ElEX8XdCbvXMfSyUo67M:1728308165115)
 
 ## Link tải các file
