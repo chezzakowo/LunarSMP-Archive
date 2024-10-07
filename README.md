@@ -16,23 +16,23 @@ Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiề
 Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 > **Các thế giới:**
 
-[Thế giới - World](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World/)
+[Thế giới - World](Chưa có)
 
-* [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World/23_08_2024)
-* [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World/04_10_2024)
+* [Backup 23/08/2024](Chưa có)
+* [Backup 04/10/2024](Chưa có)
 
-[Địa Ngục - Nether](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World_Nether)
+[Địa Ngục - Nether](https://github.com/chezzakowo/LunarSMP-Archive/releases/tag/Backup_1.0)
 
-* [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World_Nether/23_08_2024)
-* [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/World_Nether/04_10_2024)
+* [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/releases/download/Backup_1.0/23_08_2024.7z)
+* [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/releases/download/Backup_1.0/04_10_2024.7z)
 
 
 **Lưu ý nhỏ**: Cái này sẽ có thể không có đồ, bạn có thể **tải bản dự phòng có file server đi kèm** (trừ khi bạn biết chỉnh file **playerdata**).
 
 > **Có file server đi kèm** (**bao gồm 2 thế giới gộp chung**):
 
-* [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Word_The_End/23_08_2024)
-* [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/tree/main/Server_File_Built_In/04_10_2024)
+* [Backup 23/08/2024](Chưa có)
+* [Backup 04/10/2024](Chưa có)
 
 ## Link tải các file
 
