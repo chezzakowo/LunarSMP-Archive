@@ -9,17 +9,17 @@
 ## Mục đích của file này là gì?
 Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiều người **muốn lấy file world của server về để chơi tiếp**, thế nên bọn tôi mới làm ra cái này để **mọi người có thể tải về chơi**!
 
-## Danh mục
+## Danh mục các thế giới và tải
 
-Để các bạn dễ **dàng tìm và tải**, mình sẽ chia cái này thành các danh mục:
+Để các bạn dễ **dàng tìm và tải**, mình sẽ chia cái này thành các danh mục và bạn **có thể nhấn vô các chữ xanh để tải xuống:
 
 Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 > **Các thế giới:**
 
 **Thế giới - World**
 
-* [Backup 23/08/2024](Chưa có)
-* [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1V5roO6t5CSw4jCF7j-NAONBR7rz8h0NV&export=download&authuser=5&confirm=t&uuid=f792ec80-b405-4ea4-9ab9-bc2eca833b59&at=AN_67v2eEeW85Jj1vofyfdasdZei:1728365923181)
+* [Backup 23/08/2024](https://drive.usercontent.google.com/download?id=1gk0YDVB5YCk3o6_-a-tI9tckYjIc2GCH&export=download)
+* [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1V5roO6t5CSw4jCF7j-NAONBR7rz8h0NV&export=download)
 
 [Địa Ngục - Nether](https://github.com/chezzakowo/LunarSMP-Archive/releases/tag/Backup_1.0)
 
@@ -31,12 +31,8 @@ Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 
 > **Có file server đi kèm** (**bao gồm 2 thế giới gộp chung**):
 
-* [Backup 23/08/2024](https://drive.usercontent.google.com/download?id=1ipJgoQ6XWpWc9XZzTI1THHIi2lPKx1WJ&export=download&authuser=2&confirm=t&uuid=39ad1e43-b096-4ba2-9035-7ec1bb4c54dc&at=AN_67v2aWcXy-p6Ih_KG1MCOrW_9:1728309755467)
-* [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1o2Gq-wfwefSVhIgH0eNl5S-CzqGMnNG4&export=download&authuser=4&confirm=t&uuid=ed4b8c87-c361-4f54-b85a-6e90a2b8d0fc&at=AN_67v28ElEX8XdCbvXMfSyUo67M:1728308165115)
-
-## Link tải các file
-
-Đợi đi, sắp có rồi.
+* [Backup 23/08/2024](https://drive.usercontent.google.com/download?id=1ipJgoQ6XWpWc9XZzTI1THHIi2lPKx1WJ&export=download)
+* [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1o2Gq-wfwefSVhIgH0eNl5S-CzqGMnNG4&export=download)
 
 ## Những người phụ thêm file vô server
 
