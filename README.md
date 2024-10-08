@@ -16,10 +16,10 @@ Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiề
 Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 > **Các thế giới:**
 
-[Thế giới - World](Chưa có)
+**Thế giới - World**
 
 * [Backup 23/08/2024](Chưa có)
-* [Backup 04/10/2024](Chưa có)
+* [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1V5roO6t5CSw4jCF7j-NAONBR7rz8h0NV&export=download&authuser=5&confirm=t&uuid=f792ec80-b405-4ea4-9ab9-bc2eca833b59&at=AN_67v2eEeW85Jj1vofyfdasdZei:1728365923181)
 
 [Địa Ngục - Nether](https://github.com/chezzakowo/LunarSMP-Archive/releases/tag/Backup_1.0)
 
