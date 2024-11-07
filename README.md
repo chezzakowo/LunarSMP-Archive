@@ -14,6 +14,8 @@ Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiề
 Để các bạn dễ **dàng tìm và tải**, mình sẽ chia cái này thành các danh mục và bạn **có thể nhấn vô các chữ xanh để tải xuống:
 
 Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
+
+***Lưu ý:** Mỗi file World (**không phải file Nether**) có thể nặng từ **3 - 16 GB**
 > **Các thế giới:**
 
 **Thế giới - World**
