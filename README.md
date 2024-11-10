@@ -4,10 +4,10 @@
 </p>
 
 ## Giới thiệu về server
-**LunarSMP** đã từng là một server F2P với 5 mùa (**đáng lẽ có thêm nhưng server dead rồi**) với song song giữa 3 chế độ mỗi mùa là **SMP, RPG và PVP**.
+**LunarSMP** là một server sinh tồn lâu lâu thì **SMP và RPG** với cộng động vui vẻ, mod tích cực và nhiều niềm vui! Chơi tại đây: https://mclunar.online
 
 ## Mục đích của file này là gì?
-Như mình đã nói ở trên, vì server hiện tại **đã dead** và nhiều người **muốn lấy file world của server về để chơi tiếp**, thế nên bọn tôi mới làm ra cái này để **mọi người có thể tải về chơi**!
+Vì nhiều người **muốn lấy file world của server về để chơi cái map từ mùa trước**, thế nên bọn tôi mới làm ra cái này để **mọi người có thể tải về chơi**!
 
 ## Danh mục các thế giới và tải
 
