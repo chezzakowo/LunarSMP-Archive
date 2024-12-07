@@ -20,12 +20,12 @@ Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 
 **Thế giới - World**
 
-* [Backup 23/08/2024](https://drive.usercontent.google.com/download?id=1gk0YDVB5YCk3o6_-a-tI9tckYjIc2GCH&export=download)
+* [Backup 23/08/2024 (sẽ xóa vào 12/12/2024)](https://drive.usercontent.google.com/download?id=1gk0YDVB5YCk3o6_-a-tI9tckYjIc2GCH&export=download)
 * [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1V5roO6t5CSw4jCF7j-NAONBR7rz8h0NV&export=download)
 
 [Địa Ngục - Nether](https://github.com/chezzakowo/LunarSMP-Archive/releases/tag/Backup_1.0)
 
-* [Backup 23/08/2024](https://github.com/chezzakowo/LunarSMP-Archive/releases/download/Backup_1.0/23_08_2024.7z)
+* [Backup 23/08/2024 (sẽ xóa vào 12/12/2024)](https://github.com/chezzakowo/LunarSMP-Archive/releases/download/Backup_1.0/23_08_2024.7z)
 * [Backup 04/10/2024](https://github.com/chezzakowo/LunarSMP-Archive/releases/download/Backup_1.0/04_10_2024.7z)
 
 
@@ -33,7 +33,7 @@ Hiện tại chưa up file lên server, bạn chờ một thời gian tí nhé
 
 > **Có file server đi kèm** (**bao gồm 2 thế giới gộp chung**):
 
-* [Backup 23/08/2024](https://drive.usercontent.google.com/download?id=1ipJgoQ6XWpWc9XZzTI1THHIi2lPKx1WJ&export=download)
+* [Backup 23/08/2024 (sẽ xóa vào 12/12/2024)](https://drive.usercontent.google.com/download?id=1ipJgoQ6XWpWc9XZzTI1THHIi2lPKx1WJ&export=download)
 * [Backup 04/10/2024](https://drive.usercontent.google.com/download?id=1o2Gq-wfwefSVhIgH0eNl5S-CzqGMnNG4&export=download)
 
 ## Những người phụ thêm file vô server
